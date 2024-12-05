@@ -1,0 +1,23 @@
+
+body {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.container {
+  display: flex;
+  align-items: center;
+}
+.home-page {
+  display: inline-block;
+  border: solid;
+  width: 50vh;
+  height: 70vh;
+}
+.employee-page {
+  display: inline-block;
+  border:solid;
+  width: 50vh;
+  height: 70vh;
+}
